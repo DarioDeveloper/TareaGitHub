@@ -1,0 +1,7 @@
+.loader {
+  width: 120px;
+  height: 80px;
+  position: relative;
+  transform: rotate(-90deg);
+  background: linear-gradient(174deg, #0000 49%,#000 50%, #0000 51%);
+}
